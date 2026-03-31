@@ -1,0 +1,21 @@
+:root {
+    --color-50: #fff4e0;
+    --color-100: #ffebc6;
+    --color-200: #ffe2ac;
+    --color-300: #ffd890;
+    --color-400: #f7d188;
+    --color-500: #f0c97d;
+    --color-600: #cd9d37;
+    --color-700: #926a00;
+    --color-800: #543b00;
+    --color-900: #221600;
+}
+
+body {
+    background-color: var(--color-300);
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
