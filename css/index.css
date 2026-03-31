@@ -47,3 +47,7 @@ p {
 #hero p {
     margin-top: 16px;
 }
+
+footer p {
+    font-size: 12px;
+}
